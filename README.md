@@ -4,3 +4,9 @@ HapSeq2 is a program for genotyping calling and haplotype phasing from next gene
 [HapSeq2 Progran Manual](https://github.com/ZhiGroup/HapSeq2/blob/master/HapSeq2-Manual.pdf)
 
 [Wiki Page for HapSeq2](https://github.com/ZhiGroup/HapSeq2/wiki)
+
+## Older version: HapSeq
+[HapSeq Manual](https://github.com/ZhiGroup/HapSeq2/blob/master/HapSeq-Manual.pdf)
+
+
+
