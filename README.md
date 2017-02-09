@@ -7,6 +7,8 @@ Recently, we extended our methods to incorporate the haplotype information of mu
 
 [Wiki Page for HapSeq2](https://github.com/ZhiGroup/HapSeq2/wiki)
 
+[HapSeq2 executable file](https://github.com/ZhiGroup/HapSeq2/blob/master/hapseq2.01)
+
 ## Older version: HapSeq
 
 HapSeq is a program for genotyping calling and haplotype phasing from next generation sequencing data using haplotype information from jumping reads. We developed a Hidden Markov Model (HMM)-based method for genotype calling and haplotype phasing from next generation data that can take into account jumping reads information across two adjacent potential polymorphic sites. Our method extends the HMM in the Thunder program (Li, et al., 2010) and explicitly models jumping reads information as emission probabilities conditional on the states of adjacent sites. The method is implemented in the program, HapSeq. The program is implemented with C++ and based on the source code of Thunder program provided by Drs. Yun Li and Goncalo Abecasis. For the detailed description of the method implemented in HapSeq, please refer to our manuscript (Zhi et al., 2012).
